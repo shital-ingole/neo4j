@@ -1,0 +1,145 @@
+{
+  "instruments": [
+    {
+      "id": "2",
+      "instrument_id": "PI-3611-09",
+      "type": "PI",
+      "loop_number": "3611",
+      "channel": "9",
+      "geometry": {
+        "x": 4416,
+        "y": 1588,
+        "radius": 68
+      },
+      "crop_path": "output_New_image2\\crops\\circle_2.png",
+      "ocr_text_raw": "PI-3611-09",
+      "ocr_text_norm": "PI-3611-09",
+      "is_instrument": true,
+      "connected_to": [
+        {
+          "instrument_id": "PSDH361109",
+          "match_distance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "instrument_id": "PI-3611-07",
+      "type": "PI",
+      "loop_number": "3611",
+      "channel": "32",
+      "geometry": {
+        "x": 2278,
+        "y": 2564,
+        "radius": 90
+      },
+      "crop_path": "output_New_image2\\crops\\circle_170.png",
+      "ocr_text_raw": "PI-3611-07",
+      "ocr_text_norm": "PI-3611-07",
+      "is_instrument": true,
+      "connected_to": [
+        {
+          "instrument_id": "PSDL361107",
+          "match_distance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "instrument_id": "PI-3611-08",
+      "type": "PI",
+      "loop_number": "3611",
+      "channel": "8",
+      "geometry": {
+        "x": 4261,
+        "y": 1989,
+        "radius": 109
+      },
+      "crop_path": "output_New_image2\\crops\\circle_191.png",
+      "ocr_text_raw": "PI-3611-08",
+      "ocr_text_norm": "PI-3611-08",
+      "is_instrument": true,
+      "connected_to": [
+        {
+          "instrument_id": "PIT361108",
+          "match_distance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "215",
+      "instrument_id": "PI-3611-11",
+      "type": "PI",
+      "loop_number": "3611",
+      "channel": "11",
+      "geometry": {
+        "x": 4254,
+        "y": 3996,
+        "radius": 91
+      },
+      "crop_path": "output_New_image2\\crops\\circle_215.png",
+      "ocr_text_raw": "PIT-3611-11",
+      "ocr_text_norm": "PI-3611-11",
+      "is_instrument": true,
+      "connected_to": [
+        {
+          "instrument_id": "PIT361111",
+          "match_distance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "349",
+      "instrument_id": "PI-3611-10",
+      "type": "PI",
+      "loop_number": "3611",
+      "channel": "10",
+      "geometry": {
+        "x": 2487,
+        "y": 4434,
+        "radius": 89
+      },
+      "crop_path": "output_New_image2\\crops\\circle_349.png",
+      "ocr_text_raw": "PIT-3611-10",
+      "ocr_text_norm": "PI-3611-10",
+      "is_instrument": true,
+      "connected_to": [
+        {
+          "instrument_id": "PSDL361110",
+          "match_distance": 0.0
+        }
+      ]
+    },
+    {
+      "id": "1108",
+      "instrument_id": "PI-361112",
+      "type": "PI",
+      "loop_number": "3611",
+      "channel": "",
+      "geometry": {
+        "x": 4345,
+        "y": 3988,
+        "radius": 94
+      },
+      "crop_path": "output_New_image2\\crops\\circle_1108.png",
+      "ocr_text_raw": "PI-3611-12",
+      "ocr_text_norm": "PI-361112",
+      "is_instrument": true,
+      "connected_to": [
+        {
+          "instrument_id": "PSDH361112",
+          "match_distance": 0.0
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_instruments": 6,
+    "with_connections": 6,
+    "without_connections": 0,
+    "loop_numbers": ["3611"],
+    "instrument_types": ["PI"],
+    "channels_present": ["9", "32", "8", "11", "10", ""],
+    "channels_missing": 1
+  }
+}
